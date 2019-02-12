@@ -39,3 +39,13 @@ end
 
 # １行で書く省略形
 puts "10以上です" if num >= 10
+
+num = 8
+
+if num >= 50
+  puts "勇者のHPは50以上です。"
+elsif num >= 10
+  puts "勇者のHPは30以上です。"
+else
+  puts "勇者はHPは残りわずかです。"
+end
