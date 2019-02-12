@@ -30,3 +30,7 @@ price = 3567
 price = 30497
 
 puts price
+
+
+hobby = "program"
+puts hobby
