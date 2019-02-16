@@ -57,3 +57,5 @@ elsif brave_hp > 0
 else
   puts "勇者は死んだ"
 end
+
+# 追記
