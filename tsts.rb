@@ -1,0 +1,2 @@
+note = pc
+puts note
